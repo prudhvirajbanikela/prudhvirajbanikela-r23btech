@@ -6,6 +6,7 @@ Python | Machine Learning | Data Science | AI Enthusiast | B-Tech AI &amp; DS
 
 💻 Skills:
 - Python
+- Ai
 - SQL
 - Machine Learning
 - Data Science
