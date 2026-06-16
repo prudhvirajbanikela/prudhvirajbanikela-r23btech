@@ -15,6 +15,7 @@ Python | Machine Learning | Data Science | AI Enthusiast | B-Tech AI &amp; DS
 🚀 Projects:
 - AI-Enabled Market Trend & Consumer Sentiment Forecaster
 - AI-Powered Code Reviewer & Quality Assistant
+- Student-Study-Assistant
 
 📫 Connect with me:
 ## Connect with Me
